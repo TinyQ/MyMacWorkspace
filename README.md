@@ -10,7 +10,7 @@ iTerm | <http://iterm2.com/>
 Mou	| <http://25.io/mou/>
 CodeRunner| <https://coderunnerapp.com/>
 PaintCode| <http://www.paintcodeapp.com/>
-chrome| <https://www.google.com/chrome/browser/desktop/>
+Chrome| <https://www.google.com/chrome/browser/desktop/>
 
 ----
 Terminal | 地址
@@ -18,3 +18,4 @@ Terminal | 地址
 Oh My ZSH | <http://ohmyz.sh/>
 CocoaPods | <https://cocoapods.org/>
 RubyGems | <https://rubygems.org/>
+Protocol Buffers for Obj-C and Apple Swift | <http://protobuf.io/#objc/>
