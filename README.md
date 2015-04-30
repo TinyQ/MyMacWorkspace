@@ -11,6 +11,7 @@ Mou	| <http://25.io/mou/>
 CodeRunner| <https://coderunnerapp.com/>
 PaintCode| <http://www.paintcodeapp.com/>
 Chrome| <https://www.google.com/chrome/browser/desktop/>
+Visual Studio Code | <https://code.visualstudio.com/>
 
 ----
 Terminal | 地址
