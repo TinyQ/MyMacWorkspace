@@ -22,3 +22,4 @@ RubyGems | <https://rubygems.org/>
 Protocol Buffers for Obj-C and Apple Swift | <http://protobuf.io/#objc/>
 jekyll | <http://jekyllrb.com/>
 alcatraz | <http://alcatraz.io/>
+Command Line Tools | 终端输入 `xcode-select --install`
