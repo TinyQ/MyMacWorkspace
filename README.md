@@ -7,13 +7,17 @@
 Mac 软件 | 地址
 ----- | -----
 iTerm | <http://iterm2.com/>
-Mou	| <http://25.io/mou/>
+Atom | <https://atom.io/>
+MWeb	| <http://zh.mweb.im/>
+Mind Node | <http://mindnode.com/>
+PopClip | <http://pilotmoon.com/popclip/>
 CodeRunner| <https://coderunnerapp.com/>
 PaintCode| <http://www.paintcodeapp.com/>
 Chrome| <https://www.google.com/chrome/browser/desktop/>
 Visual Studio Code | <https://code.visualstudio.com/>
 
 ----
+
 Terminal | 地址
 ----- | -----
 Oh My ZSH | <http://ohmyz.sh/>
